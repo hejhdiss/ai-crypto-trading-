@@ -45,7 +45,7 @@ COINGECKO_CHART_URL = (
 )
 COINCODEx_PRED_URL = "https://coincodex.com/api/coindata/{sym}"
 
-GROQ_API_KEY = os.getenv("GROQ_API_KEY") or "YOUR_GROQ_API_KEY_HERE"
+GROQ_API_KEY = "YOUR_GROQ_API_KEY_HERE"
 
 TAILWIND_CDN = "https://cdn.tailwindcss.com"
 CHARTJS_CDN   = "https://cdn.jsdelivr.net/npm/chart.js"
